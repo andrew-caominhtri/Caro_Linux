@@ -46,26 +46,31 @@ Dành cho ai muốn chỉnh sửa code hoặc chạy trực tiếp bằng Python
 
 Clone repository về máy:
 
-Bash
+```bash
 git clone https://github.com/andrew-caominhtri/Caro_Linux.git
 cd Caro_Linux
+```
 Khởi tạo và kích hoạt môi trường ảo (Khuyên dùng):
 
 On Linux/macOS:
 
-Bash
+```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 On Windows (PowerShell):
 
-PowerShell
+```PowerShell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
+```
 Cài đặt các thư viện phụ thuộc (nếu có):
 
-Bash
+```bash
 pip install -r requirements.txt
+```
 Khởi chạy trò chơi:
 
-Bash
+```bash
 python3 caro_game.py
+```
