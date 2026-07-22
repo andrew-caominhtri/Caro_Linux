@@ -1,4 +1,4 @@
-# 🎮 Trò Chơi Cờ Caro (Gomoku) - Đồ Án Hệ Điều Hành & Lập Trình Linux
+# 🎮 Trò Chơi Cờ Caro (Gomoku)
 
 ## 🌟 Tính Năng Nổi Bật
 
