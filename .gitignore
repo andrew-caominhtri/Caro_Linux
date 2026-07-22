@@ -1,0 +1,9 @@
+# Bỏ qua môi trường ảo
+env/
+venv/
+.venv/
+
+# Bỏ qua các file tạm do Python và PyInstaller tạo ra
+__pycache__/
+build/
+*.spec
