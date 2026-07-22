@@ -1,6 +1,6 @@
 # 🎮 Trò Chơi Cờ Caro (Gomoku)
 
-Chào mừng bạn đến với dự án **Trò Chơi Cờ Caro (Gomoku)**! Đây là một ứng dụng cờ Caro 15x15 hiện đại được viết bằng Python, sở hữu giao diện đồ họa đẹp mắt cùng trí tuệ nhân tạo (AI) thông minh.
+Chào mừng bạn đến với dự án **Trò Chơi Cờ Caro (Gomoku)**! Đây là một ứng dụng cờ Caro 15x15 hiện đại được viết bằng Python, sở hữu giao diện đồ họa đẹp mắt.
 
 ---
 
