@@ -7,3 +7,6 @@ venv/
 __pycache__/
 build/
 *.spec
+tokens.txt
+tokens.txt
+*.docx
